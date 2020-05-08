@@ -1,6 +1,6 @@
 {
   "name": "@lcdp/json-merge-patch",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Implementation of JSON Merge Patch (RFC 7396)",
   "main": "index.js",
   "directories": {
